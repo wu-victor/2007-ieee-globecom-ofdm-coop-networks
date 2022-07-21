@@ -1,0 +1,9 @@
+# 2007 IEEE GLOBECOM Conference Paper
+
+Error Rate Performance in OFDM-Based Cooperative Networks
+
+https://ieeexplore.ieee.org/document/4411564
+
+## Abstract
+
+Cooperative relay networks have been shown to improve performance in wireless communication systems as a form of spatial diversity. In this paper, we investigate the error rate performance in a single path relay network and a multiple path relay network using orthogonal frequency division multiplexing (OFDM) signals. Using the amplify-and-forward and decode-and-forward relay algorithms, we derive input-output relations for the two networks. For the amplify-and-forward case, we consider two relay power allocation schemes. The first is constant gain allocation, where the amplifying gain is constant for all subcarriers. The second is equal power allocation, where each subcarrier transmits the same power. The former scheme does not require channel state information (CSI), while the latter one does. For the decode-and-forward case, the transmitter and each relay are assumed to have uniform power allocations. We simulate the word error rate (WER) performance for the two networks. For the single path relay network, amplify-and-forward gives very poor performance, because as we increase the distance between the transmitter and receiver (and thus, add more relays), more noise and channel distortion enter the system. Decode- and-forward gives significantly better performance because noise and channel distortion are eliminated at each relay. For the multiple path relay network, decode-and-forward again gives better performance than amplify-and-forward. However, the performance gains are small compared to the single path relay network case. Therefore, amplify-and-forward may be a more attractive choice in this case due to its lower complexity.
